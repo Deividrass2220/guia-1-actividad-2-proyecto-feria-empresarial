@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="feria-empresarial-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/feria_empresarial_java_jar</output-path>
+    <root id="archive" name="feria-empresarial-java.jar">
+      <element id="module-output" name="feria-empresarial-java" />
+    </root>
+  </artifact>
+</component>
